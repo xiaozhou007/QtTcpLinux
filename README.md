@@ -3,7 +3,7 @@
 Linux使用select模型,主要是学习
 
 ![](https://github.com/xiaozhou007/QtTcpLinux/blob/master/chat.png)
-##核心代码
+## 核心代码
 ```c
 int main(void)
 {
